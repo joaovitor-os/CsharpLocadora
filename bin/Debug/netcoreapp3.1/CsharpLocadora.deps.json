@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CsharpLocadora/1.0.0": {
+        "runtime": {
+          "CsharpLocadora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsharpLocadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
